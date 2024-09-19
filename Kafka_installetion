@@ -105,6 +105,6 @@ Start consumer to see the messages:
 cd kafka_2.12-2.8.1
 bin/kafka-console-consumer.sh --topic demo_testing2 --bootstrap-server {Put the MSK bootstrap server URLs here} 
 ###################################################################################################
-https://aws.amazon.com/blogs/big-data...
+https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 ############################################################# this copy past in google ##############
 
