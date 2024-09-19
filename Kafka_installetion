@@ -107,4 +107,5 @@ bin/kafka-console-consumer.sh --topic demo_testing2 --bootstrap-server {Put the 
 ###################################################################################################
 https://doc.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 ############################################################# this copy past in google ##############
+https://github.com/SatadruMukherjee/Data-Preprocessing-Models/blob/main/AWS%20MSK%20Connector%20for%20Snowflake.txt
 
